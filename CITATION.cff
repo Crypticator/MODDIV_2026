@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use MODDIV 2026 or material from this repository, please cite this repository and the relevant research article(s)."
+
+title: "MODDIV 2026"
+
+authors:
+  - family-names: "Bouftass"
+    given-names: "Samir"
+
+doi: "10.5281/zenodo.24137562"
+
+repository-code: "https://github.com/Crypticator/MODDIV_2026"
+url: "https://github.com/Crypticator/MODDIV_2026"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24137562"
+
+keywords:
+  - cryptography
+  - post-quantum cryptography
+  - lattice cryptography
+  - modular arithmetic
+  - quotient extraction
+  - learning with errors
+  - learning with rounding
+  - Toeplitz matrices
+  - Hankel matrices
+  - reproducible research
+
+abstract: >-
+  MODDIV 2026 is a public research repository collecting articles,
+  thesis material, mathematical analyses, cryptographic constructions,
+  attacks, and reproducibility resources related to the MODDIV research
+  program.
+
+# Add these fields only after confirming the exact release metadata:
+#
+# version: "1.0.0"
+# date-released: "2026-11-11"
